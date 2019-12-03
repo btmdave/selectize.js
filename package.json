@@ -21,11 +21,11 @@
   },
   "dependencies": {
     "microplugin": "0.0.3",
-    "sifter": "^0.5.1"
+    "sifter": "^0.5.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "grunt": "~1.0.1",
+    "grunt": "^1.0.4",
     "grunt-bower-task": "^0.5.0",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
@@ -36,7 +36,7 @@
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-contrib-watch": "1.x",
     "grunt-replace": "^1.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "karma": "^3.1.1",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^2.0.0",
